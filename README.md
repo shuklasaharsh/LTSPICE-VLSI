@@ -9,6 +9,12 @@
 $ git clone https://github.com/shuklasaharsh/LTSPICE-VLSI
 ```
 - And just run it on your LTSPICE :)
+- Please make sure that you change
+
+```SPICE
+.INCLUDE tsmc018.lib #Statement according to your directory
+```
+- Please add CMOSP and CMOSN to your symbols library.
 
 
 ## Current Circuits
