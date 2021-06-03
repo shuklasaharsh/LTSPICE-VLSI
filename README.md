@@ -24,10 +24,8 @@ $ git clone https://github.com/shuklasaharsh/LTSPICE-VLSI
 - Included LTSPice Directory
 
 ## Upcoming
-```diff
-! 2 input AND Gate
-! 2 Input OR Gate
-! Inverter Circuit - NOT Gate Symbol and schematic
+``` diff
+! Only on requests, please get in touch with me to get your circuit
 ```
 
 ## For any requests please get in touch with me:
