@@ -1,0 +1,41 @@
+Version 4
+SymbolType BLOCK
+LINE Normal 64 -64 -64 -64
+LINE Normal 64 80 64 -64
+LINE Normal -64 80 64 80
+LINE Normal -64 -64 -64 80
+LINE Normal -80 -32 -64 -32
+LINE Normal -80 -16 -64 -16
+LINE Normal -80 0 -64 0
+LINE Normal -80 16 -64 16
+LINE Normal 80 0 64 0
+LINE Normal 0 -80 0 -64
+LINE Normal 80 -32 64 -32
+LINE Normal 80 16 64 16
+TEXT -22 -35 Left 2 4x3
+TEXT -28 -16 Left 1 Priority
+TEXT -30 12 Left 1 Encoder
+PIN 0 -80 TOP 8
+PINATTR PinName Vdd
+PINATTR SpiceOrder 1
+PIN -80 -32 LEFT 8
+PINATTR PinName A3
+PINATTR SpiceOrder 2
+PIN -80 -16 LEFT 8
+PINATTR PinName A2
+PINATTR SpiceOrder 3
+PIN -80 0 LEFT 8
+PINATTR PinName A1
+PINATTR SpiceOrder 4
+PIN -80 16 LEFT 8
+PINATTR PinName A0
+PINATTR SpiceOrder 5
+PIN 80 -32 RIGHT 8
+PINATTR PinName Y0
+PINATTR SpiceOrder 6
+PIN 80 0 RIGHT 8
+PINATTR PinName Y1
+PINATTR SpiceOrder 7
+PIN 80 16 RIGHT 8
+PINATTR PinName V
+PINATTR SpiceOrder 8

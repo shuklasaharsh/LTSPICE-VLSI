@@ -1,0 +1,29 @@
+Circuit: * C:\Users\sahar\Documents\LTspiceXVII\TASK3_DFF.asc
+
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu May 20 16:22:37 2021
+Total elapsed time: 0.593 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 29186
+traniter = 29168
+tranpoints = 11635
+accept = 9921
+rejected = 1714
+matrix size = 13
+fillins = 0
+solver = Normal
+Matrix Compiler1: 942 bytes object code size  0.2/0.1/[0.1]
+Matrix Compiler2: off  [0.1]/0.2/0.2
+
