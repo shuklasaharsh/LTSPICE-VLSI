@@ -21,6 +21,7 @@ $ git clone https://github.com/shuklasaharsh/LTSPICE-VLSI
 - D Flip flop using LTSPICE
 - 2 Input NAND Gate using LTSPICE
 - 2 Input NOR Gate using LTSPICE
+- Included LTSPice Directory
 
 ## Upcoming
 ```diff
